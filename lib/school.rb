@@ -13,5 +13,5 @@ class School
     roster[level] << student
   end 
   
-    end 
+
   end
